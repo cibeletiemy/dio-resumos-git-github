@@ -9,3 +9,4 @@ Documentacao Git (https://git.scm.com/doc)
 ## 
 😃 para inserir emoji no mac: ctrl + command + espa;com
 allala
+commt2
